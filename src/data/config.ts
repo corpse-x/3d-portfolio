@@ -39,7 +39,7 @@ const config = {
     linkedin: "https://www.linkedin.com/in/none/",
     instagram: "https://www.instagram.com/corpsealone",
     facebook: "https://www.facebook.com/corpsealone/",
-    github: "https://github.com/corpse-x,
+    github: "https://github.com/corpse-x",
   },
 };
 export { config };
